@@ -1,0 +1,1 @@
+The completion of this project took place within the context of my Full Stack Software Engineering studies at ALX. The primary objective was to gain proficiency in handling exceptions, understanding their usage, managing errors effectively, and learning the process of raising exceptions in Python.
